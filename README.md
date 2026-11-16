@@ -261,8 +261,8 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
 
 | | Autor | Contato |
 | --- | --- | --- |
-| 👤 | **Abraão Brito Oliveira** | [GitHub](https://github.com/Abraaobritto) · [LinkedIn](https://www.linkedin.com/in/abraao-brito) |
-| 👤 | **Klisman Matheus Trindade de Oliveira** | [GitHub](https://github.com/KlismanMatheus) · [LinkedIn](https://www.linkedin.com/in/KlismanMatheus) |
+| 👤 | **Abraão Brito Oliveira** | [GitHub](https://github.com/Abraaobritto) · [LinkedIn](https://www.linkedin.com/in/abraao-brito-7a5730227/) |
+| 👤 | **Klisman Matheus Trindade de Oliveira** | [GitHub](https://github.com/klismanmatheus) · [LinkedIn](https://www.linkedin.com/in/KlismanMatheus) |
 
 Trabalho de Conclusão de Curso do curso de Sistemas de Informação, Centro Universitário Fametro.
 
