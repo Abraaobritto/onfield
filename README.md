@@ -1,7 +1,12 @@
-[README.md](https://github.com/user-attachments/files/34942546/README.md)
+[README_Onfield_final_ok.md](https://github.com/user-attachments/files/34943387/README_Onfield_final_ok.md)
 <div align="center">
 
-# 📍 OnField
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/logo-onfield-dark.png">
+  <img src="docs/logo-onfield.png" alt="OnField" width="420">
+</picture>
+
+<br><br>
 
 **Gestão operacional e roteirização inteligente para técnicos de campo nas Unidades Básicas de Saúde de Manaus.**
 
@@ -233,6 +238,7 @@ Acesse **http://localhost:5173** no navegador.
 │   │   ├── 📄 App.tsx         # Estrutura principal e navegação
 │   │   └── 📄 types.ts        # Interfaces TypeScript
 │   └── 📄 package.json
+├── 📁 docs/                   # Logo do projeto
 └── 📄 README.md
 ```
 
